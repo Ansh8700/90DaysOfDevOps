@@ -1,4 +1,4 @@
-# Linux User & Access Configuration
+# 1️⃣ Linux User & Group Management
 
 This task outlines the configuration of a secure user environment on a Linux system. We will create a new user, assign them to a team group, enable administrative privileges, and restrict SSH access to control remote logins.
 
