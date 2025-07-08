@@ -33,6 +33,7 @@ cd 90DaysOfDevOps/2025/git/01_Git_and_Github_Basics
 
 <img width="1915" height="964" alt="Image" src="https://github.com/user-attachments/assets/bd4a61ec-f6df-4f20-9454-558d458bd733" />
 
+---
 
 <img width="1919" height="1005" alt="Image" src="https://github.com/user-attachments/assets/aeeb6468-48c2-4f05-96f6-84dd00b64178" />
 
