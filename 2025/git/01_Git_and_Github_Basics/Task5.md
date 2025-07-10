@@ -158,3 +158,18 @@ git commit -m "Resolve merge conflict between feature-update and experimental"
 
 🎉 Done!
 You’ve successfully simulated a merge conflict and resolved it manually — an essential real-world Git skill. If you'd like to push the changes:
+
+
+<img width="1919" height="1012" alt="Image" src="https://github.com/user-attachments/assets/400bbb0a-8544-4483-b30b-925e7769b54b" />
+
+---
+
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/9314f3dd-85b7-47db-a0a1-362eccb8a1fe" />
+
+---
+
+<img width="1919" height="1014" alt="Image" src="https://github.com/user-attachments/assets/a9633fae-7ff6-437a-a8a6-567ed3d69aef" />
+
+---
+
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/e6e893cf-13a1-4255-b92c-941c202cc28d" />
