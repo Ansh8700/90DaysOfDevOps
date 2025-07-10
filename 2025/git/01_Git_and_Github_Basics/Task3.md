@@ -1,4 +1,4 @@
-# ✅ 1. **Configure Remote URL with Your PAT**
+# 🔧 Task 3: **Configure Remote URL with Your PAT**
 
 This allows Git to authenticate using your **Personal Access Token** (PAT) without prompting every time.
 
