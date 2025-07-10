@@ -55,4 +55,4 @@ Instead of embedding your PAT in the URL every time, **use Git Credential Manage
 
 <img width="1919" height="973" alt="Image" src="https://github.com/user-attachments/assets/e2d46891-25cc-4793-bc43-0dd386bd3717" />
 
-<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/3ea12175-ea8d-4ced-b779-8945bf6cf372" />
+<img width="1919" height="1012" alt="Image" src="https://github.com/user-attachments/assets/54b23434-af50-4fb7-a9ef-8fa6fe685569" />
